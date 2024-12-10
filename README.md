@@ -18,8 +18,7 @@ I'm **@nhyira_90709**, a passionate web developer who loves crafting modern and 
 - **Backend Integration:** Basic Node.js  
 - **Tools & Platforms:** Visual Studio Code, GitHub, Tailwind Play  
 
-## 🎧 What I'm Listening To
-- Currently vibing to **505 by Arctic Monkeys** 🎵  
+
 
 ## 📫 Let's Connect!
 - **Portfolio:** [nhyira.netlify.app](https://nhyira.netlify.app/)  
